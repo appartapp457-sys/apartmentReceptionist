@@ -20,7 +20,7 @@
 
 # 📬 Контакты службы поддержки
 
-📧 Email:zabota2025@outlook.com 🐞 Сообщить об ошибке: https://github.com/DevSmirnov/zabota-o-pitomtce-support/issues/new
+📧 Email:appartapp457@gmail.com 🐞 Сообщить об ошибке: https://github.com/DevSmirnov/zabota-o-pitomtce-support/issues/new
 
 # 🔐 Политика конфиденциальности
 
